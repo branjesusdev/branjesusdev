@@ -1,5 +1,16 @@
-```javascript
-console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel })
+```html
+<div style="background-color: #d2a8ff; padding: 10px;">
+  <span style="color: blue;">console</span>.log(
+  <span style="color: red;">{</span>
+    <span style="color: green;">React</span>,
+    <span style="color: orange;">Astro</span>,
+    <span style="color: purple;">Angular</span>,
+    <span style="color: teal;">Vue</span>,
+    <span style="color: pink;">NextJs</span>,
+    <span style="color: brown;">NodeJs</span>,
+    <span style="color: maroon;">Laravel</span>
+  <span style="color: red;">}</span>)
+</div>
 ```
 
 
