@@ -1,4 +1,4 @@
-```html
+```
 <div style="background-color: #d2a8ff; padding: 10px;">
   <span style="color: blue;">console</span>.log(
   <span style="color: red;">{</span>
