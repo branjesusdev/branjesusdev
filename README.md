@@ -2,7 +2,7 @@
 
 <div align='center'>
   <samp>
-    <a href='https://build-website.web.app/perfil'>website</a> •
+    <a href='https://build-website.web.app/perfil' style="font-size:2rem">website</a>
   </samp>
 </div>
 
