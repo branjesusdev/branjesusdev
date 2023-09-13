@@ -2,7 +2,7 @@
 
 💖
 ```javascript
-console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel })
+console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel, TailwindCss })
 ```
 <br/>
 <a href="https://www.linkedin.com/in/brandol-jes%C3%BAs-vargas-44294b135/">
@@ -13,16 +13,10 @@ console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel })
 
 ## What i'm up to
 
-- 🔭 I’m currently working [Moviired](https://www.moviired.co/).
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 💻 I’m currently working [Moviired](https://www.moviired.co/).
+- 🚀 I’m currently working with [React](https://reactjs.org).
 
 <br />
-
-## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ---
 
