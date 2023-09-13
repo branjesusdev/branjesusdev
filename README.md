@@ -14,7 +14,6 @@ console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel, TailwindCss }
 ## What i'm up to
 
 - 💻 I’m currently working [Moviired](https://www.moviired.co/).
-- 🚀 I’m currently working with [React](https://reactjs.org).
 
 <br />
 
