@@ -1,6 +1,12 @@
+## 👋 Hello
 
+💖
 ```javascript
 console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel })
 ```
+<br/>
+<a href="https://www.linkedin.com/in/brandol-jes%C3%BAs-vargas-44294b135/">
+<img align="left" alt="Brandol Jesus LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=0A66C2" />
+</a>
 
-![Perfil](https://firebasestorage.googleapis.com/v0/b/gallery-c4a2e.appspot.com/o/github.png?alt=media&token=87bac89e-a9d6-40e4-9312-6f8b174cd012)
+<br/> 
