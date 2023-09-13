@@ -9,7 +9,7 @@ console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel, TailwindCss }
 <img align="left" alt="Brandol Jesus LinkedIn" width="40px" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" />
 </a>
 
-<br/> 
+<br/> <br/> 
 
 ## What i'm up to
 
