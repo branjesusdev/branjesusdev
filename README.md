@@ -1,6 +1,6 @@
 ## 👋 Hello, i'm Brandol
 
-Desarrollador full-stack
+Full-stack developer
 
 <div align='center'>
   <samp>
