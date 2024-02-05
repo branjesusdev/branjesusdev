@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brandoljesusv/" target="_blank">
-    <img align="left" alt="Brandol Jesus LinkedIn" width="40px" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" />
+    <img  alt="Brandol Jesus LinkedIn" width="40px" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" />
   </a>
 </div>
 
