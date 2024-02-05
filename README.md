@@ -1,5 +1,7 @@
 ## 👋 Hello, i'm Brandol
 
+Desarrollador full-stack
+
 <div align='center'>
   <samp>
     <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:3rem"> 🌐 website</a>
@@ -8,7 +10,7 @@
 
 💖
 ```javascript
-console.log({ React, Astro, Angular, Vue, NextJs, NodeJs, Laravel, TailwindCss })
+console.log({ React, Astro, Angular, Vue, Svelte, NextJs, NodeJs, Laravel, TailwindCss, Ionic })
 ```
 <br/>
 <a href="https://www.linkedin.com/in/brandol-jes%C3%BAs-vargas-44294b135/">
