@@ -2,7 +2,7 @@
 
 <div align='center'>
   <samp>
-    <a href='https://build-website.web.app/perfil' style="font-size:2rem">website</a>
+    <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:2rem">website</a>
   </samp>
 </div>
 
