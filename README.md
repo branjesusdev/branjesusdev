@@ -1,8 +1,10 @@
-## 👋 Hello, i'm Brandol
+<h1 align="left">Hello 👋, i'm Brandol</h1>
 
-Full-stack developer
+###
 
-##
+<p align="left">Full-stack developer</p>
+
+###
 
 <div align='center'>
   <samp>
