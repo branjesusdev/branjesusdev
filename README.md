@@ -8,7 +8,7 @@
 
 <div align='center'>
   <samp>
-    <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:3rem"> 🌐 website</a>
+    <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:3rem"> 🌐 Portfolio</a>
   </samp>
 </div>
 
