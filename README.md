@@ -1,8 +1,8 @@
-## 👋 Hello
+## 👋 Hello, i'm Brandol
 
 <div align='center'>
   <samp>
-    <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:2rem">website</a>
+    <a href='https://branjes-dev.vercel.app/' target="_blank" style="font-size:3rem"> 🌐 website</a>
   </samp>
 </div>
 
