@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Cover](./Screenshot_10.png)
+  ![Cover](./header.png)
 
   <p>
     <span>
