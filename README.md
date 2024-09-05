@@ -29,7 +29,9 @@ My name is Brandol, I'm a software developer based in Colombia. I have a **Syste
 
 ## 🌟 Languages
 
+<div align="center">
 ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJs-05122A?style=flat-square&logo=NodeJs&color=353535) ![Bootstrap](https://img.shields.io/badge/-NestJs-05122A?style=flat-square&logo=NestJs&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJs-05122A?style=flat-square&logo=NextJs&color=353535) ![Bootstrap](https://img.shields.io/badge/-TailwindCss-05122A?style=flat-square&logo=TailwindCss&color=353535) ![Bootstrap](https://img.shields.io/badge/-Astro-05122A?style=flat-square&logo=Astro&color=353535)
+</div>
 
 ## 🏆 Stats
 
