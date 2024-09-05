@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Cover](./.github/assets/cover.png)
+  ![Cover](./Screenshot_10.png)
 
   <p>
     <span>
